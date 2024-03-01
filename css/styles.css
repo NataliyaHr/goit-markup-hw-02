@@ -21,7 +21,7 @@ ol {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
+    text-transform:uppercase;
     color: #4d5ae5;
 }
 
@@ -65,7 +65,7 @@ ol {
 .top-title-name {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -126,7 +126,7 @@ ol {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -169,7 +169,7 @@ ol {
 .portfolio {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -204,6 +204,22 @@ ol {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-.logo-part2{
+.logo-footer{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+.logo-footer-division{
    color: #f4f4fd;
+}
+.visually-hidden{
+    margin: -1px;
+    border: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
 }

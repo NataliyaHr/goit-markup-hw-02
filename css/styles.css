@@ -91,14 +91,6 @@ font-style: normal;
     background-color: #fff;
 }
 
-.service-list {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
 .service-list-item {
     width: 264px;
     height: 104px;
@@ -107,7 +99,7 @@ font-style: normal;
 .service-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -144,7 +136,7 @@ font-style: normal;
 .team-member {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -158,12 +150,8 @@ font-style: normal;
     color: #434455;
 }
 
-.team-img {
-  
-}
-
 .portfolio-menu {
-    background-color: white;
+    background-color:white;
 }
 
 .portfolio {
@@ -176,14 +164,11 @@ font-style: normal;
     color: #2e2f42;
 }
 
-.portfolio-list {
-    background-color: #E7E9FC;
-}
 
 .portfolio-section {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }

@@ -14,7 +14,11 @@ ul,
 ol {
     list-style: none;
 }
-
+.page header{
+    width: 1440px;
+     height: 72px;
+     background-color: #fff;
+}
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -61,6 +65,8 @@ font-style: normal;
 
 .top-title {
     background-color:#2e2f42;
+    width: 1440px;
+     height: 600px;
 }
 
 .top-title-name {
@@ -90,6 +96,8 @@ font-style: normal;
 
 .service {
     background-color: #fff;
+    width: 1128px;
+     height: 104px;
 }
 
 .service-list-item {
@@ -114,6 +122,8 @@ font-style: normal;
 
 .team {
     background-color: #f4f4fd;
+    width: 1440px;
+     height: 732px;
 }
 
 .team-title {
@@ -153,6 +163,8 @@ font-style: normal;
 
 .portfolio-menu {
     background-color:white;
+    width: 1128px;
+      height: 1000px;
 }
 
 .portfolio {
@@ -183,6 +195,8 @@ font-style: normal;
 
 .footer {
     background-color: #2e2f42;
+    width: 1440px;
+     height: 312px;
 }
 
 .footer-description {

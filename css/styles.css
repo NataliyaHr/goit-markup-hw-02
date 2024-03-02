@@ -59,7 +59,7 @@ font-style: normal;
 }
 
 .top-title {
-    background-color: #2e2f42;
+    background-color:#2e2f42;
 }
 
 .top-title-name {
@@ -201,7 +201,7 @@ font-style: normal;
 }
 .logo-footer-division{
 font-family: "Raleway", sans-serif;
-    font-weight: 700;
+    font-weight:700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -211,7 +211,7 @@ font-family: "Raleway", sans-serif;
 .visually-hidden{
     margin: -1px;
     border: 0;
-    white-space: nowrap;
+    white-space:nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;

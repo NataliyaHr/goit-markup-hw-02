@@ -32,6 +32,10 @@ ol {
 .logo-part {
     color: #2e2f42;
 }
+.menu{
+    width: 261px;
+    height: 24px;
+}
 
 .link-navigation {
     font-weight: 500;
@@ -50,7 +54,7 @@ ol {
 font-style: normal; 
 }
 
-.contacts-link {
+.contacts-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -65,8 +69,7 @@ font-style: normal;
 
 .top-title {
     background-color:#2e2f42;
-    width: 1440px;
-     height: 600px;
+   
 }
 
 .top-title-name {
@@ -95,14 +98,12 @@ font-style: normal;
 }
 
 .service {
-    background-color: #fff;
     width: 1128px;
      height: 104px;
 }
 
 .service-list-item {
-    width: 264px;
-    height: 104px;
+   
 }
 
 .service-name {
@@ -118,6 +119,7 @@ font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
 }
 
 .team {

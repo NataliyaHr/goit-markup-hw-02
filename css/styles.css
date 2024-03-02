@@ -134,7 +134,7 @@ font-style: normal;
 
 .team-item {
     background-color: #fff;
-    
+
    
 }
 
@@ -222,8 +222,5 @@ font-family: "Raleway", sans-serif;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
+   
 }
